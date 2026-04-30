@@ -23,4 +23,7 @@ The goal is to build a machine learning model that can estimate a student's scor
 
 1. Clone the repository:
 ```bash
+## Visualization
+
+![Graph](graph.png)
 git clone https://github.com/your-username/student_score_prediction.gitn
