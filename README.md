@@ -22,7 +22,7 @@ The goal is to build a machine learning model that estimates a student's score b
 ---
 
 ## 🚀 Output
-Predicted score for 6 hours: (45)
+Predicted score for 6 hours: 90
 ##project structure
 
 
